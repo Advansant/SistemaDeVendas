@@ -1,0 +1,5 @@
+1|1|Advan|Santos|Rua Ana Clélia Rodrigues|11986534184|1|2003/05/01|2022/05/29
+2|3|Maria|Neusa|Rua Ana Clélia Rodrigues|11968408965|1|1984/09/16|2022/05/30
+3|3|Camile|Vitória|Rua Ana Clélia Rodrigues|11965782343|2|2010/01/30|2022/05/31
+4|4|Maria|Neusa|Rua Péroba|11968408965|1|1987/07/16|2025/07/30
+5|2|Eliabe|Araujo|Tatupe|11984361242|7|2022/06/04|2022/06/04

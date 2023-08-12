@@ -1,0 +1,4 @@
+1|Feijao|25|0|Feijão carioca
+2|Arroz|15|1|Branco
+3|Açucar|10|2|Refinado
+4|Salon Line Creme|25|2|Creme hidratante para cabelo
